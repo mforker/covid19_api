@@ -2,6 +2,8 @@
 
 This project provides a FastAPI-based web API for accessing historical and current COVID-19 data for various states and union territories in India. The data is sourced from official government sources and is available in a JSON format.
 
+The API is deployed at [https://covid19-api-3ymt.onrender.com](https://covid19-api-3ymt.onrender.com)
+
 ## Features
 
 - **Current State Data**: Retrieve the latest COVID-19 data for one or more states/UTs.
