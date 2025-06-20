@@ -5,9 +5,9 @@ import json
 
 app = FastAPI()
 
-@app.get("/")
+@app.get("/", description="Welcome message")
 def root():
-    return {"message": "Hello World"}
+    return {"message": "Hi, i am Mitesh and i am happy to provide you the COVID-19 Data API."}
 
 @app.get("/states_ut_list", description="Provides list of states you can get data for.")
 def states_list():
