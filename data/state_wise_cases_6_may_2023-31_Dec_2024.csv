@@ -1,0 +1,38 @@
+S_no,State/UT,Cumulative_Cases_(Including_Foreigners),Discharged/Cured/Migrated,Deaths
+1,A&N Islands,0,0,0
+2,Andhra Pradesh,488,588,0
+3,Arunachal Pradesh,95,134,0
+4,Assam,138,142,3
+5,Bihar,1144,1740,2
+6,Chandigarh,160,298,1
+7,Chhattisgarh,1905,3025,23
+8,Dadar and Nagar Haveli and Daman and Diu,0,0,0
+9,Delhi,3822,5049,63
+10,Goa,1104,1360,0
+11,Gujarat,1848,2465,26
+12,Haryana,1077,2696,46
+13,Himachal Pradesh,1142,1681,9
+14,J&K (UT),434,659,2
+15,Jharkhand,111,292,4
+16,Karnataka,10447,11131,60
+17,Kerala,21807,28798,273
+18,Ladakh,115,125,0
+19,Lakshadweep,0,0,0
+20,Madhya Pradesh,529,617,1
+21,Maharashtra,11197,13318,68
+22,Manipur,70,85,0
+23,Meghalaya,114,141,2
+24,Mizoram,500,589,7
+25,Nagaland,28,33,0
+26,Odisha,2165,6211,2
+27,Puducherry,417,484,1
+28,Punjab,1157,1930,1279
+29,Rajasthan,2245,3764,34
+30,Sikkim,283,370,1
+31,Tamil Nadu,2529,4166,12
+32,Telangana,1086,1360,0
+33,Tripura,472,516,3
+34,Uttar Pradesh,2283,3898,50
+35,Uttarakhand,521,658,14
+36,West Bengal,4663,7029,16
+37,TOTAL,76096,105352,2002
