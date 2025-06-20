@@ -3,7 +3,14 @@ from typing import Optional
 from utils.scraper import get_statewise_historical_data, get_list_of_states,get_current_data_india, get_statewise_current_data
 import json
 
-app = FastAPI()
+app = FastAPI(
+    title="COVID-19 Data API",
+    description="A FastAPI-based web API for accessing historical and current COVID-19 data for various states and union territories in India.",
+    version="1.0.0",
+    contact={
+        "name": "Mitesh",
+        "url": "https://github.com/mforker"
+    })
 
 @app.get("/", description="Welcome message")
 def root():
